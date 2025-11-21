@@ -25,7 +25,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  SITE_URL: "https://smtn-research.com/"
+  SITE_URL: "https://southmountain.ai/"
 
 jobs:
   # Build job
