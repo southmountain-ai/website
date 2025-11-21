@@ -10,7 +10,7 @@ export default function Page() {
       </p>
 
       <p>
-        Contact us at <a href="mailto:gus@smtn-research.com">gus@smtn-research.com</a>.
+        Contact us at <a href="mailto:gus@southmountain.ai">gus@aouthmountain.ai</a>.
       </p>
     </section>
   )
