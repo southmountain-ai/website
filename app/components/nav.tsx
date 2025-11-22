@@ -4,12 +4,15 @@ const navItems = {
   '/': {
     name: 'home',
   },
-  '/our-work': {
-    name: 'our work',
+  'https://justg.us/cv': {
+    name: 'gus\'s cv ↗',
   },
-  '/people': {
-    name: 'people',
-  },
+  // '/our-work': {
+  //   name: 'our work',
+  // },
+  // '/people': {
+  //   name: 'people',
+  // },
   // '/blog': {
   //   name: 'blog',
   // },
