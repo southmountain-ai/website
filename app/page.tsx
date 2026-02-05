@@ -8,7 +8,7 @@ export default function Page() {
           Southmountain Research
         </h1>
         <p className="mb-4">
-          Southmountain Research, LLC is the contracting vehicle of <a href="https://justg.us">Dr. Gus Henry Smith</a>,
+          Southmountain Research, LLC is the contracting vehicle of <a href="https://justg.us">Gus Henry Smith, Ph.D.</a>,
           providing research and development services
           in electronic design automation (EDA),
           hardware compilation,
